@@ -1,3 +1,4 @@
+#!/bin/bash
 #No. of structures whose energy is to be estimated
 iterations=30
 
